@@ -12,4 +12,8 @@ Thông tin sinh viên 2:
 - Số điện thoại: 098 7875 221
 - Website: https://www.facebook.com/dangsg8/
 
-Edit1
+Thông tin sinh viên 3:
+- Tên: Lê Hoàng Linh	
+- Email: hoanglinh11111997@gmail.com 
+- Số điện thoại: 0981 423 092
+- Website: https://www.facebook.com/299792458.Inf.hoanglinh
