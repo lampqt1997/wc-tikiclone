@@ -1,4 +1,4 @@
-Tên nhóm: TikiClone
+﻿Tên nhóm: TikiClone
 
 Thông tin sinh viên 1:
 - Tên: Phạm Quốc Thạch Lam
@@ -12,3 +12,4 @@ Thông tin sinh viên 2:
 - Số điện thoại: 098 7875 221
 - Website: https://www.facebook.com/dangsg8/
 
+Edit1
