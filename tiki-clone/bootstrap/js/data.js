@@ -23,7 +23,7 @@ class DanhMuc {
         this.ten = ten;
         this.code = code;
         this.icon = icon;
-        this.DanhMucCon = danhmuccon;
+        this.danhmuccon = danhmuccon;
     }
 
 }
@@ -58,7 +58,7 @@ function dataMenu() {
     danhmuccons1.push(new DanhMucCon('Realme C3i', 'rmc3i', 'item'));
     danhmuccons1.push(new DanhMucCon('Realme 5 Pro', 'rm5pro', 'item'));
     danhmuccons1.push(new DanhMucCon('VIVO Y91C', 'vvy91c', 'title'));
-    danhmuccons1.push(new DanhMucCon('Nổi bật', 'nb', 'item'));
+    danhmuccons1.push(new DanhMucCon('Nổi bật', 'nb', 'title'));
     danhmuccons1.push(new DanhMucCon('Oppo A31', 'oppa31', 'item'));
     danhmuccons1.push(new DanhMucCon('Oppo A12', 'oppa12', 'item'));
     danhmuccons1.push(new DanhMucCon('Oppo Reno 3', 'opprn3', 'item'));
@@ -84,46 +84,57 @@ function dataMenu() {
     danhmuccons1.push(new DanhMucCon('Dịch vụ, Chính sách', 'dichvuchinhsach', 'title'));
     danhmuccons1.push(new DanhMucCon('Trung tâm bảo hành chính hãng', 'trungtambaohanh', 'title'));
     danhmuccons1.push(new DanhMucCon('Hướng dẫn mua trả góp', 'huongdanmuatragop', 'item'));
-    danhmuccons1.push(new DanhMucCon('Quy trình đóng gói, giao hàng', 'quytrinhdonggoiogiaohang', 'item'));
-    danhmuccons1.push(new DanhMucCon('Quy trình đổi trả và bảo hành', 'quytrinhdoitrabaohanh', 'item'));
+    danhmuccons1.push(new DanhMucCon('Quy trình đóng gói, giao hàng', 'quytrinhdonggoiogiaohang', 'title'));
+    danhmuccons1.push(new DanhMucCon('Quy trình đổi trả và bảo hành', 'quytrinhdoitrabaohanh', 'title'));
 
 
 
     danhmucs.push(new DanhMuc('Điện thoại - Máy tính bảng', 'DTMTB','fas fa-mobile-alt', danhmuccons1));
-    danhmucs.push(new DanhMuc('Điện tử - Điện lạnh', 'DTMTB','fas fa-tv', danhmuccons2));
-    danhmucs.push(new DanhMuc('Phụ kiện - Thiết bị số', 'DTMTB','fas fa-headphones-alt', danhmuccons3));
-    danhmucs.push(new DanhMuc('Laptop - Thiết bị IT', 'DTMTB', 'fas fa-laptop',danhmuccons4));
-    danhmucs.push(new DanhMuc('Máy Ảnh - Quay Phim', 'DTMTB','fas fa-camera' ,danhmuccons5));
-    danhmucs.push(new DanhMuc('Điện Gia Dụng', 'DTMTB', 'fas fa-calculator',danhmuccons6));
-    danhmucs.push(new DanhMuc('Nhà Cửa Đời sống', 'DTMTB', 'far fa-lightbulb',danhmuccons7));
-    danhmucs.push(new DanhMuc('Hàng Tiêu Dùng - Thực Phẩm', 'DTMTB','fas fa-wine-bottle' ,danhmuccons8));
-    danhmucs.push(new DanhMuc('Đồ chơi, Mẹ & Bé', 'DTMTB','fas fa-baby' ,danhmuccons9));
-    danhmucs.push(new DanhMuc('Làm đẹp - sức khỏe', 'DTMTB', '',danhmuccons10));
-    danhmucs.push(new DanhMuc('Thời trang - Dã Ngoại', 'DTMTB', '',danhmuccons11));
-    danhmucs.push(new DanhMuc('Thể Thao - Dã Ngoại', 'DTMTB', '',danhmuccons12));
-    danhmucs.push(new DanhMuc('Xe Máy, Ô tô, Xe đạp', 'DTMTB', '',danhmuccons13));
-    danhmucs.push(new DanhMuc('Hàng Quốc Tế', 'DTMTB', '',danhmuccons14));
-    danhmucs.push(new DanhMuc('Sách, VPP & Quà Tặng', 'DTMTB','' ,danhmuccons15));
-    danhmucs.push(new DanhMuc('Voucher - Dịch Vụ - Thẻ Cào', 'DTMTB', '',danhmuccons16));
+    danhmucs.push(new DanhMuc('Điện tử - Điện lạnh', 'DTDL','fas fa-tv', danhmuccons2));
+    danhmucs.push(new DanhMuc('Phụ kiện - Thiết bị số', 'PKTBS','fas fa-headphones-alt', danhmuccons3));
+    danhmucs.push(new DanhMuc('Laptop - Thiết bị IT', 'LTTBIT', 'fas fa-laptop',danhmuccons4));
+    danhmucs.push(new DanhMuc('Máy Ảnh - Quay Phim', 'MAQP','fas fa-camera' ,danhmuccons5));
+    danhmucs.push(new DanhMuc('Điện Gia Dụng', 'DGD', 'fas fa-calculator',danhmuccons6));
+    danhmucs.push(new DanhMuc('Nhà Cửa Đời sống', 'NCDS', 'far fa-lightbulb',danhmuccons7));
+    danhmucs.push(new DanhMuc('Hàng Tiêu Dùng - Thực Phẩm', 'HTDTP','fas fa-wine-bottle' ,danhmuccons8));
+    danhmucs.push(new DanhMuc('Đồ chơi, Mẹ & Bé', 'DCMB','fas fa-baby' ,danhmuccons9));
+    danhmucs.push(new DanhMuc('Làm đẹp - sức khỏe', 'LDSK', 'fas fa-paint-brush',danhmuccons10));
+    danhmucs.push(new DanhMuc('Thời trang - Phụ kiện', 'TTPK', 'fas fa-tshirt',danhmuccons11));
+    danhmucs.push(new DanhMuc('Thể Thao - Dã Ngoại', 'TTDN', 'fas fa-volleyball-ball',danhmuccons12));
+    danhmucs.push(new DanhMuc('Xe Máy, Ô tô, Xe đạp', 'XMOTXD', 'far fa-car-alt',danhmuccons13));
+    danhmucs.push(new DanhMuc('Hàng Quốc Tế', 'HQT', 'fas fa-globe',danhmuccons14));
+    danhmucs.push(new DanhMuc('Sách, VPP & Quà Tặng', 'SVPPQT','fas fa-book-open' ,danhmuccons15));
+    danhmucs.push(new DanhMuc('Voucher - Dịch Vụ - Thẻ Cào', 'VDVTC', 'fas fa-money-check',danhmuccons16));
 
-
-    console.log(danhmucs);
-    
-
+    return danhmucs;
 }
 
 
 
 function fillDataMenu(){
 
-    var e;
+    var e='';
     for (let i = 0; i < danhmucs.length; i++) {
-        
-        e= e+ `<li class="nav-item nav-item-custom">
+        e= e+ `<li class="nav-item nav-item-custom" data-code=${danhmucs[i].code}>
                         <a class="nav-link text-secondary" href="#">
-                        <i class="fas fa-mobile mr-2"> </i>
+                        <i class="${danhmucs[i].icon} mr-2"> </i>
                         ${danhmucs[i].ten}</a>
                     </li>`;
+        
+    }
+    return e;
+}
+
+function fillDataMenuSub(danhmuccon){
+    console.log('danhmuccon '+danhmuccon.length);
+    var e='';
+    for (let i = 0; i < danhmuccon.length; i++) {
+        if (danhmuccon[i].type =='title') {
+            e= e+ `<li class="menu-hover-item menu-hover-title">${danhmuccon[i].ten}</li>`;
+        } else {
+            e= e+ `<li class="menu-hover-item">${danhmuccon[i].ten}</li>`;
+        }
+      
         
     }
     return e;
