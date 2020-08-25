@@ -20,14 +20,14 @@
     <!-- End HTML header -->
 
     <!-- HTML Main -->
-    <main>
+    <main class="">
       <div class="container">
         <div class="py-5 text-center">
           <h2>Đăng sản phẩm</h2>
         </div>
 
         <form class="needs-validation" novalidate>
-          <div class="row">
+          <div class="row bg-white p-3">
             <div class="col-md-5">
               <div class="form-group">
                 <!-- The expanding image container -->
@@ -50,7 +50,7 @@
               </div>
             </div>
 
-            <div class="col-md-7">
+            <div class="col-md-7 border-left pl-3">
               <h4 class="form-group">Thông tin sản phẩm</h4>
               <div class="row">
                 <div class="col">
@@ -137,8 +137,9 @@
                 </div>
               </div>
             </div>
+          </div>
             <div class="row">
-              <div class="form-group w-100">
+              <div class="form-group w-100 my-3">
                 <label for="productdetail">Thông tin chi tiết</label>
                 <textarea name="productdetail"></textarea>
               </div>
@@ -151,7 +152,6 @@
                 Thêm sản phẩm
               </button>
             </div>
-          </div>
         </form>
       </div>
     </main>
@@ -170,103 +170,103 @@
     <script src="js/index.js"></script>
     <script src="js/data.js"></script>
 
-	<script src="https://cdn.ckeditor.com/4.14.1/standard/ckeditor.js"></script>
+  <script src="https://cdn.ckeditor.com/4.14.1/standard/ckeditor.js"></script>
 
     <script>
-		CKEDITOR.replace( 'productdetail' );
-		CKEDITOR.replace( 'description' );
-	</script>
-	<script>
-		function addSpecification() {
-			$("#specification").append(`<div class="d-flex mt-3">
-							<div class="flex-fill mr-3">
-								<input type="text" class="form-control" placeholder="Tên">
-							</div>
-							<div class="flex-fill mr-3">
-								<input type="text" class="form-control" placeholder="Giá trị">
-							</div>
-							<div class="">
-								<button type="button" onclick="handleRemoveParent(this);" class="btn btn-danger">Xóa</button>
-							</div>
-						</div>`);
-			return false;
-		}
+    CKEDITOR.replace( 'productdetail' );
+    CKEDITOR.replace( 'description' );
+  </script>
+  <script>
+    function addSpecification() {
+      $("#specification").append(`<div class="d-flex mt-3">
+              <div class="flex-fill mr-3">
+                <input type="text" class="form-control" placeholder="Tên">
+              </div>
+              <div class="flex-fill mr-3">
+                <input type="text" class="form-control" placeholder="Giá trị">
+              </div>
+              <div class="">
+                <button type="button" onclick="handleRemoveParent(this);" class="btn btn-danger">Xóa</button>
+              </div>
+            </div>`);
+      return false;
+    }
 
-		function addColorInput() {
-			let color = $("#colorInput").val();
-			if (color !== "") {
-				$("#colorBoard").append(`<div class="col-6 mb-3 d-flex justify-content-between" >
-							<div class="">
-								<input type="text" class="form-control" value="` + color + `">
-							</div>
-							<div>
-								<button type="button" onclick="handleRemoveParent(this)" class="btn btn-danger">Xóa</button>
-							</div>
-						</div>`);
-			}
-			$("#colorInput").val("");
-			return false;
-		}
+    function addColorInput() {
+      let color = $("#colorInput").val();
+      if (color !== "") {
+        $("#colorBoard").append(`<div class="col-6 mb-3 d-flex justify-content-between" >
+              <div class="">
+                <input type="text" class="form-control" value="` + color + `">
+              </div>
+              <div>
+                <button type="button" onclick="handleRemoveParent(this)" class="btn btn-danger">Xóa</button>
+              </div>
+            </div>`);
+      }
+      $("#colorInput").val("");
+      return false;
+    }
 
-		function handleRemoveParent(child) {
-			$(child).parent().parent().remove();
-		}
+    function handleRemoveParent(child) {
+      $(child).parent().parent().remove();
+    }
 
-		$(function() {
-			// Multiple images preview in browser
-			var imagesPreview = function(input, placeToInsertImagePreview) {
+    $(function() {
+      // Multiple images preview in browser
+      var imagesPreview = function(input, placeToInsertImagePreview) {
 
-				if (input.files) {
-					var filesAmount = input.files.length;
+        if (input.files) {
+          var filesAmount = input.files.length;
 
-					for (i = 0; i < filesAmount; i++) {
-						var reader = new FileReader();
+          for (i = 0; i < filesAmount; i++) {
+            var reader = new FileReader();
 
-						reader.onload = function(event) {
-							let newImg = $($.parseHTML('<img class="previewImgs" style="max-width:100%;" onclick="expandImg(this);">')).attr('src', event.target.result);
-							let newDiv = $($.parseHTML('<div class="col-3">')).append(newImg);
-							newDiv.appendTo(placeToInsertImagePreview);
-							// $($.parseHTML('<img>')).attr('src', event.target.result).appendTo(placeToInsertImagePreview);
-						}
+            reader.onload = function(event) {
+              let newImg = $($.parseHTML('<img class="previewImgs" style="max-width:100%;" onclick="expandImg(this);">')).attr('src', event.target.result);
+              let newDiv = $($.parseHTML('<div class="col-3">')).append(newImg);
+              newDiv.appendTo(placeToInsertImagePreview);
+              // $($.parseHTML('<img>')).attr('src', event.target.result).appendTo(placeToInsertImagePreview);
+            }
 
-						reader.readAsDataURL(input.files[i]);
-					}
-					// return true; //successful case
-				}
-				// return false; //failed case 
-			};
+            reader.readAsDataURL(input.files[i]);
+          }
+          // return true; //successful case
+        }
+        // return false; //failed case 
+      };
 
-			$('#gallery-photo-add').on('change', async function() {
-				let resultCode = imagesPreview(this, 'div.gallery');
-				setTimeout(() => expandImg(document.getElementsByClassName("previewImgs")[0]), 1000);
-				// if (await resultCode) {
-					// expandImg(document.getElementsByClassName("previewImgs")[0]);
-				// } 
-					
-			});
+      $('#gallery-photo-add').on('change', async function() {
+        let resultCode = imagesPreview(this, 'div.gallery');
+        setTimeout(() => expandImg(document.getElementsByClassName("previewImgs")[0]), 1000);
+        // if (await resultCode) {
+          // expandImg(document.getElementsByClassName("previewImgs")[0]);
+        // } 
+          
+      });
 
-			/* function myCallBack() {
-				expandImg(document.getElementsByClassName("previewImgs")[0]);
-			}
+      /* function myCallBack() {
+        expandImg(document.getElementsByClassName("previewImgs")[0]);
+      }
 
-			$('#gallery-photo-add').on('change', function(myCallBack) {
-				imagesPreview(this, 'div.gallery');
-				myCallBack();
-			}); */
-		});
-		
-		function expandImg(imgs) {
-			// Get the expanded image
-			var expandImg = document.getElementById("expandedImg");
-			// Get the image text
-			var imgText = document.getElementById("imgtext");
-			// Use the same src in the expanded image as the image being clicked on from the grid
-			expandImg.src = imgs.src;
-			// Use the value of the alt attribute of the clickable image as text inside the expanded image
-			imgText.innerHTML = imgs.alt;
-			// Show the container element (hidden with CSS)
-			expandImg.parentElement.style.display = "block";
-		}
-		</script>
+      $('#gallery-photo-add').on('change', function(myCallBack) {
+        imagesPreview(this, 'div.gallery');
+        myCallBack();
+      }); */
+    });
+    
+    function expandImg(imgs) {
+      // Get the expanded image
+      var expandImg = document.getElementById("expandedImg");
+      // Get the image text
+      var imgText = document.getElementById("imgtext");
+      // Use the same src in the expanded image as the image being clicked on from the grid
+      expandImg.src = imgs.src;
+      // Use the value of the alt attribute of the clickable image as text inside the expanded image
+      imgText.innerHTML = imgs.alt;
+      // Show the container element (hidden with CSS)
+      expandImg.parentElement.style.display = "block";
+    }
+    </script>
   </body>
 </html>
