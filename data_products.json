@@ -1,0 +1,1945 @@
+{
+   "productBoxs": [
+      {
+         "id": 59548770,
+         "name": "Thùng 24 Lon Bia Heineken James Bond Bản Giới Hạn Bật Nắp Trúng Vàng 330ml",
+         "price": 385000,
+         "list_price": 420000,
+         "discount_rate": 8,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/45/d2/05/aef7bcec02e717e08672f818217be63e.jpg"
+      },
+      {
+         "id": 49467737,
+         "name": " Thùng 6 Hộp Sữa Tươi Không Béo Promess (1L /Hộp)",
+         "price": 177000,
+         "list_price": 252000,
+         "discount_rate": 30,
+         "rating_average": 4.8,
+         "review_count": 76,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/05/74/4d/96322994ce8677391ccfaa4ea424ca86.png"
+      },
+      {
+         "id": 59548761,
+         "name": "Thùng 24 Lon Bia Heineken Sleek James Bond Bản Giới Hạn Bật Nắp Trúng Vàng 330ml",
+         "price": 385000,
+         "list_price": 430000,
+         "discount_rate": 10,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/a5/90/966e4f67b473c1fae9929b62d307bec9.jpg"
+      },
+      {
+         "id": 10102645,
+         "name": " Nước xả vải Downy Hương Nắng mai 4L (Dạng chai)",
+         "price": 189100,
+         "list_price": 206500,
+         "discount_rate": 8,
+         "rating_average": 4.6,
+         "review_count": 33,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/ec/41/bf76e9ce1bf7f9e9588f1235d576ca32.jpg"
+      },
+      {
+         "id": 912679,
+         "name": "Thùng Bia Tiger 24 Lon (330ml / Lon)",
+         "price": 338900,
+         "list_price": 370000,
+         "discount_rate": 8,
+         "rating_average": 4.5,
+         "review_count": 173,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b8/36/18/28efc72494992150ef431ee25ff6d342.jpg"
+      },
+      {
+         "id": 14617254,
+         "name": "Bột Baking Soda Đa Công Dụng Arm & Hammer (454G)",
+         "price": 28000,
+         "list_price": 51000,
+         "discount_rate": 45,
+         "rating_average": 4.6,
+         "review_count": 684,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/64/44/ec/91e3d815ebfc23413330c1dc922f7693.JPG"
+      },
+      {
+         "id": 41356464,
+         "name": "Nước Rửa Chén Sunlight Thiên Nhiên Muối Khoáng Và Lô Hội (3.6 kg) - Mới",
+         "price": 93000,
+         "list_price": 114000,
+         "discount_rate": 18,
+         "rating_average": 4.8,
+         "review_count": 396,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/da/32/8de5703940b4a99981337cd1035a8433.jpg"
+      },
+      {
+         "id": 26062573,
+         "name": "Nước Xả Vải Comfort Cho Da Nhạy Cảm (3.2L/Túi) - Phù Hợp Với Làn Da Em Bé",
+         "price": 158000,
+         "list_price": 199000,
+         "discount_rate": 21,
+         "rating_average": 4.8,
+         "review_count": 658,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/9f/b0/3e050eb9f80cc3dd431d03d7d7274f2a.jpg"
+      },
+      {
+         "id": 11580174,
+         "name": "Kẹo Mút Chupa Chups Hương Trái Cây Hỗn Hợp (50 Que / Gói)",
+         "price": 49600,
+         "list_price": 50000,
+         "discount_rate": 1,
+         "rating_average": 4.8,
+         "review_count": 24,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/82/be/07a489dc0501c569381ef25fc93dae19.jpg"
+      },
+      {
+         "id": 56365368,
+         "name": "1 Thùng MILO Ít Đường (180ml x 48) + Tặng Balo MILO Tự Tin",
+         "price": 324000,
+         "list_price": 324000,
+         "discount_rate": 0,
+         "rating_average": 4.8,
+         "review_count": 128,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/16/c9/4c/a92d61c5ef1e310f6691c5b2f63b95d3.jpg"
+      },
+      {
+         "id": 5506013,
+         "name": "Ngũ Cốc Sấy Khô Calbee nội địa Nhật Bản 800g",
+         "price": 208888,
+         "list_price": 219100,
+         "discount_rate": 5,
+         "rating_average": 4.6,
+         "review_count": 433,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/9b/3c/749a72eff516d0aaf0cf2f3a7f937682.jpg"
+      },
+      {
+         "id": 10240037,
+         "name": "Thùng 48 Hộp Sữa Nestlé MILO Nước (180ml / Hộp)",
+         "price": 294000,
+         "list_price": 320000,
+         "discount_rate": 8,
+         "rating_average": 4.5,
+         "review_count": 196,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2b/81/7e/317806efe1f67c006f84131d980548ea.jpg"
+      },
+      {
+         "id": 3747989,
+         "name": "Nước Mắm Tĩn nhãn xưa 41N (500ml)",
+         "price": 275000,
+         "list_price": 310000,
+         "discount_rate": 11,
+         "rating_average": 4.8,
+         "review_count": 28,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/93/fa/1b/1b59d731b44bd4059814cd989a98d055.jpg"
+      },
+      {
+         "id": 56000142,
+         "name": "Túi Nước Giặt OMO Matic Comfort Hương Tinh dầu thơm 2.9kg",
+         "price": 135000,
+         "list_price": 165000,
+         "discount_rate": 18,
+         "rating_average": 4.8,
+         "review_count": 62,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ce/ed/a4/f9458cf499d36dd94297eb5d5b7b4f00.jpg"
+      },
+      {
+         "id": 12215118,
+         "name": "Bột Ngũ Cốc Dinh Dưỡng Zera",
+         "price": 295000,
+         "list_price": 295000,
+         "discount_rate": 0,
+         "rating_average": 4.6,
+         "review_count": 16,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/38/89/b7/bb2ba852841bc9f409af38f0751e7deb.jpg"
+      },
+      {
+         "id": 58941370,
+         "name": "Kẹo Alpenliebe Hương Xoài Nhân Muối Ớt 16 Thỏi",
+         "price": 73000,
+         "list_price": 80000,
+         "discount_rate": 9,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/23/cb/cb060f6fc4f5ce855691cf8511820434.jpg"
+      },
+      {
+         "id": 3154277,
+         "name": "Kem Đặc Có Đường Nestle Carnation (388g)",
+         "price": 19000,
+         "list_price": 19000,
+         "discount_rate": 0,
+         "rating_average": 4.3,
+         "review_count": 64,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/86/2e/69dc19a9c9aabd5080308d95c0f978c1.jpg"
+      },
+      {
+         "id": 12050798,
+         "name": "Yến Mạch Quaker Oats Quick - 1 Minute 4.52kg ( Dạng Hạt Cán Vỡ )",
+         "price": 192000,
+         "list_price": 250000,
+         "discount_rate": 23,
+         "rating_average": 4.5,
+         "review_count": 327,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/e8/e6/68a9cddba00627fcf7d06f4f959fca11.jpg"
+      },
+      {
+         "id": 10308663,
+         "name": "Máy xay sinh tố thông minh Xiaomi Deerma - Hàng Chính Hãng",
+         "price": 599000,
+         "list_price": 599000,
+         "discount_rate": 0,
+         "rating_average": 3.7,
+         "review_count": 104,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/ef/84/159a34778c6860b306d82532747ff0f8.jpg"
+      },
+      {
+         "id": 54754558,
+         "name": "Máy Lọc Không Khí Samsung AX40R3020WU/SV - Hàng Chính Hãng",
+         "price": 2449000,
+         "list_price": 4900000,
+         "discount_rate": 50,
+         "rating_average": 5,
+         "review_count": 3,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8b/27/30/804d6e7f71317797bdbadc60fe3080ad.jpg"
+      },
+      {
+         "id": 56363032,
+         "name": "Lò Chiên Không Khí 12 Lít Lock&Lock EJF696BLK (Kèm Quà Tặng) - Hàng Chính Hãng",
+         "price": 3140000,
+         "list_price": 5458000,
+         "discount_rate": 42,
+         "rating_average": 4.7,
+         "review_count": 14,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/5b/56/3683b955564ae91728a64bfa487f0410.PNG"
+      },
+      {
+         "id": 36626940,
+         "name": "Nồi Chiên Không Dầu Điện Tử Lock&Lock EJF357BLK (5.2 Lít) - Hàng Chính Hãng",
+         "price": 2390000,
+         "list_price": 4820000,
+         "discount_rate": 50,
+         "rating_average": 4.7,
+         "review_count": 695,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/07/2a/9f/f827733c48227f3779e6c829a4177bf4.jpg"
+      },
+      {
+         "id": 10908328,
+         "name": "Máy Vắt Cam Lock&Lock EJJ231 (700ml) - Hàng chính hãng",
+         "price": 209999,
+         "list_price": 402000,
+         "discount_rate": 48,
+         "rating_average": 4.5,
+         "review_count": 778,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6e/80/5b/812bb508f51e106287911c7c35f825ac.jpg"
+      },
+      {
+         "id": 20263255,
+         "name": "Máy xay sinh tố cầm tay tiện lợi 500ml MeetJuice - 2019",
+         "price": 333333,
+         "list_price": 550000,
+         "discount_rate": 39,
+         "rating_average": 4.2,
+         "review_count": 78,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0d/a6/00/744a7e8a1452461d461a864171452a49.jpg"
+      },
+      {
+         "id": 1987727,
+         "name": "Máy Đánh Trứng Electrolux EHM3407 (450W) - Hàng chính hãng ",
+         "price": 559000,
+         "list_price": 650000,
+         "discount_rate": 14,
+         "rating_average": 4.7,
+         "review_count": 199,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/1f/3f/713cfbd368d53325520e8e3cb324d603.jpg"
+      },
+      {
+         "id": 7416297,
+         "name": "Nồi Cơm Điện Tử Lòng Niêu Magic Korea A-86NIEU (1.8 Lít) - Hàng Chính Hãng",
+         "price": 849000,
+         "list_price": 1990000,
+         "discount_rate": 57,
+         "rating_average": 3.2,
+         "review_count": 9,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/03/aa/35/0275067863a6b537d7b4b15380d1bff4.jpg"
+      },
+      {
+         "id": 26342215,
+         "name": "Máy xay nấu đa năng RANBEM 735H - Hàng Nhập Khẩu",
+         "price": 1538000,
+         "list_price": 1990000,
+         "discount_rate": 23,
+         "rating_average": 4.4,
+         "review_count": 36,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/4d/33/48f5b7a1ac5c2b65864364778b859fd1.jpg"
+      },
+      {
+         "id": 568269,
+         "name": "Máy Sưởi Điện Taka Halogen TKE108 - Hàng chính hãng",
+         "price": 439000,
+         "list_price": 640000,
+         "discount_rate": 31,
+         "rating_average": 3.8,
+         "review_count": 4,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/4/3/438.u2769.d20161228.t151411.515799.jpg"
+      },
+      {
+         "id": 50743696,
+         "name": "Quạt làm mát không khí Kachi MK202 75W - Hàng chính hãng",
+         "price": 1059000,
+         "list_price": 1890000,
+         "discount_rate": 44,
+         "rating_average": 2.6,
+         "review_count": 5,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/83/6b/de/0bbacb8bcc8554ae89c24569dbae56c9.jpg"
+      },
+      {
+         "id": 406414,
+         "name": "Nồi Chiên Không Dầu Philips HD9220/20 - Hàng chính hãng",
+         "price": 2699000,
+         "list_price": 4999000,
+         "discount_rate": 46,
+         "rating_average": 4.5,
+         "review_count": 509,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/70/5c/2b59d7f9ae2638ae4fe26f2cd81c47f6.jpg"
+      },
+      {
+         "id": 6772415,
+         "name": "Lò Nướng Điện Sunhouse SHD4206 (10L) - Hàng chính hãng",
+         "price": 329000,
+         "list_price": 900000,
+         "discount_rate": 63,
+         "rating_average": 4.3,
+         "review_count": 611,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/a0/c6/e1e7644745a481c64005e6cb38d696dd.jpg"
+      },
+      {
+         "id": 53299582,
+         "name": "Nồi chiên không dầu Ferroli FAF4.0M (4 lít) - Hàng chính hãng",
+         "price": 800000,
+         "list_price": 1400000,
+         "discount_rate": 43,
+         "rating_average": 4.5,
+         "review_count": 63,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/61/6b/14/d106e9911e3637dc76ffae6bfd022c3f.jpg"
+      },
+      {
+         "id": 2385791,
+         "name": "Nồi Chiên Không Dầu Lock&Lock EJF351BLK (5.2L) (Đen) - Hàng chính hãng",
+         "price": 2490000,
+         "list_price": 4700000,
+         "discount_rate": 47,
+         "rating_average": 4.5,
+         "review_count": 454,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2b/83/af/a0af003b498d3aa871b4b9791f87b0e4.jpg"
+      },
+      {
+         "id": 13448092,
+         "name": "Quạt Sạc Comet CRF0705 (5W) - Hàng chính hãng",
+         "price": 202500,
+         "list_price": 292490,
+         "discount_rate": 31,
+         "rating_average": 4.7,
+         "review_count": 386,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/41/4d/38/cdc9f52c8272639a39d8884ad1697ca1.jpg"
+      },
+      {
+         "id": 46117775,
+         "name": "Máy sưởi điện Hanil EH-600 - Hàng Chính Hãng",
+         "price": 649000,
+         "list_price": 980000,
+         "discount_rate": 34,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/45/56/42/055a057b63ad7845ac9a297a47dbdf64.jpg"
+      },
+      {
+         "id": 53297461,
+         "name": "Nồi chiên không dầu 5L mẫu 2020",
+         "price": 698000,
+         "list_price": 1450000,
+         "discount_rate": 52,
+         "rating_average": 4.5,
+         "review_count": 108,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/88/e1/b0687627c7330f40fd35e772993c1307.jpg"
+      },
+      {
+         "id": 7749111,
+         "name": "Android Tivi Box Xiaomi Mibox S 4K Global Quốc Tế (Android 8.1) - Hàng Chính Hãng",
+         "price": 1349000,
+         "list_price": 2590000,
+         "discount_rate": 48,
+         "rating_average": 4.5,
+         "review_count": 595,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/85/11/6d/d35186c2efe62db3d82b1572d28f32f1.jpg"
+      },
+      {
+         "id": 12723797,
+         "name": "Smart Tivi Samsung 4K 65 inch UA65RU7100",
+         "price": 14480000,
+         "list_price": 32990000,
+         "discount_rate": 56,
+         "rating_average": 4.3,
+         "review_count": 22,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ab/71/1c/2347a9b5b9807a93984753b1b60a9d54.jpg"
+      },
+      {
+         "id": 3665301,
+         "name": "Smart Tivi Samsung 4K 55 inch UA55NU7090",
+         "price": 8990000,
+         "list_price": 20990000,
+         "discount_rate": 57,
+         "rating_average": 4.2,
+         "review_count": 140,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a5/bd/5c/a8cf273bb33c67d409881164119782fa.jpg"
+      },
+      {
+         "id": 4374799,
+         "name": "Giá Treo Tivi Góc Xoay Nhập Khẩu North Bayou P4 (32-55inch) ",
+         "price": 225000,
+         "list_price": 650000,
+         "discount_rate": 65,
+         "rating_average": 4.8,
+         "review_count": 108,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/3d/0e/e9e08ff83be2aaaa74429ba6f45558d5.jpg"
+      },
+      {
+         "id": 12715175,
+         "name": "Smart Tivi Samsung 4K 55 inch UA55RU7100",
+         "price": 9290000,
+         "list_price": 18490000,
+         "discount_rate": 50,
+         "rating_average": 4.6,
+         "review_count": 57,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/62/ce/2f483468ec7ef4a10078196a6f893ba8.jpg"
+      },
+      {
+         "id": 17465701,
+         "name": "Smart Tivi LG 4K 55 inch 55UM7300PTA",
+         "price": 9990000,
+         "list_price": 17900000,
+         "discount_rate": 44,
+         "rating_average": 4.6,
+         "review_count": 109,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/a3/01/d768b2233f4e79b57e3927a65c3fc33a.jpg"
+      },
+      {
+         "id": 10003165,
+         "name": "Máy Rửa Bát Electrolux ESF6010BW - Hàng chính hãng ",
+         "price": 7080000,
+         "list_price": 10990000,
+         "discount_rate": 36,
+         "rating_average": 4.1,
+         "review_count": 149,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ba/80/a3/3eee5b22e9f3963da9c9517caf342ed3.jpg"
+      },
+      {
+         "id": 37407336,
+         "name": "Android TV BOX RAM 4G, Bộ nhớ 32G, xem phim 6K, chơi game, hỗ trợ tính năng tìm kiếm bằng giọng nói mới nhất hiện nay X10 PLUS",
+         "price": 780000,
+         "list_price": 1400000,
+         "discount_rate": 44,
+         "rating_average": 4,
+         "review_count": 2,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/2e/ec/e01849b475c5c54a1acc837af5b57d95.jpg"
+      },
+      {
+         "id": 11656296,
+         "name": "Smart Tivi Samsung 4K 55 inch UA55RU7400",
+         "price": 13219000,
+         "list_price": 23900000,
+         "discount_rate": 45,
+         "rating_average": 3.8,
+         "review_count": 13,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/6e/34/6622ce778eb47e14b09e6d41eb5818d9.jpg"
+      },
+      {
+         "id": 12713528,
+         "name": "Smart Tivi Samsung 4K 50 inch UA50RU7100",
+         "price": 8190000,
+         "list_price": 15900000,
+         "discount_rate": 48,
+         "rating_average": 4.3,
+         "review_count": 70,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ab/71/1c/83e2fd609638a910298c4ef7c5665850.jpg"
+      },
+      {
+         "id": 562469,
+         "name": "Smart Tivi Toshiba Full HD 40 inch 40L5650",
+         "price": 4190000,
+         "list_price": 7890000,
+         "discount_rate": 47,
+         "rating_average": 4.3,
+         "review_count": 69,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/90/3f/99/c0384ac5b637f916996b6b671632b5c2.jpg"
+      },
+      {
+         "id": 17465729,
+         "name": "Smart Tivi LG 4K 55 inch 55UM7100PTA",
+         "price": 9590000,
+         "list_price": 18400000,
+         "discount_rate": 48,
+         "rating_average": 4.4,
+         "review_count": 46,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/80/6a/aee29e8aa13c3702573e809cd9f92dd9.jpg"
+      },
+      {
+         "id": 52021144,
+         "name": "Android Tivi Box T95 hệ điều hành android 10 RAM 4GB ROM 32GB điều khiển giọng nói tiếng Việt",
+         "price": 890000,
+         "list_price": 1200000,
+         "discount_rate": 26,
+         "rating_average": 2.6,
+         "review_count": 5,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/fa/55/ea2a877acbabd3be451209176b382051.jpg"
+      },
+      {
+         "id": 556302,
+         "name": "Loa Soundbar 2.1 Kênh Samsung HW-K350 - Hàng Chính Hãng",
+         "price": 1589000,
+         "list_price": 2208000,
+         "discount_rate": 28,
+         "rating_average": 4.3,
+         "review_count": 566,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/71/7d/a9/97ff0936a25405278fb7d3e3752042a0.jpg"
+      },
+      {
+         "id": 11713479,
+         "name": "Smart Tivi Samsung 4K 49 inch UA49RU8000",
+         "price": 9350000,
+         "list_price": 20900000,
+         "discount_rate": 55,
+         "rating_average": 4.4,
+         "review_count": 19,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e5/eb/cd/0f8a08b8dee1af94bd70929cc3d79025.jpg"
+      },
+      {
+         "id": 823106,
+         "name": "Tủ lạnh Sharp Inverter 182 lít SJ-X201E-SL",
+         "price": 4148000,
+         "list_price": 7300000,
+         "discount_rate": 43,
+         "rating_average": 4.6,
+         "review_count": 30,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/b7/ca/3e8925c3d7261f478013a7b36b803320.jpg"
+      },
+      {
+         "id": 562471,
+         "name": "Smart Tivi Toshiba HD 32 inch 32L5650",
+         "price": 2999000,
+         "list_price": 6490000,
+         "discount_rate": 54,
+         "rating_average": 3.9,
+         "review_count": 19,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2d/25/f4/e23f7fe1e4c1f873c90f117b2f67a474.jpg"
+      },
+      {
+         "id": 49089541,
+         "name": "Tivi LED Sharp HD 32 inch 2T-C32BD1X",
+         "price": 2459000,
+         "list_price": 5490000,
+         "discount_rate": 55,
+         "rating_average": 4.5,
+         "review_count": 25,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/cb/ff/429dcb6a786f0e9621be8e1206a8807b.jpg"
+      },
+      {
+         "id": 7749111,
+         "name": "Android Tivi Box Xiaomi Mibox S 4K Global Quốc Tế (Android 8.1) - Hàng Chính Hãng",
+         "price": 1349000,
+         "list_price": 2590000,
+         "discount_rate": 48,
+         "rating_average": 4.5,
+         "review_count": 595,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/85/11/6d/d35186c2efe62db3d82b1572d28f32f1.jpg"
+      },
+      {
+         "id": 12723797,
+         "name": "Smart Tivi Samsung 4K 65 inch UA65RU7100",
+         "price": 14480000,
+         "list_price": 32990000,
+         "discount_rate": 56,
+         "rating_average": 4.3,
+         "review_count": 22,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ab/71/1c/2347a9b5b9807a93984753b1b60a9d54.jpg"
+      },
+      {
+         "id": 3665301,
+         "name": "Smart Tivi Samsung 4K 55 inch UA55NU7090",
+         "price": 8990000,
+         "list_price": 20990000,
+         "discount_rate": 57,
+         "rating_average": 4.2,
+         "review_count": 140,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a5/bd/5c/a8cf273bb33c67d409881164119782fa.jpg"
+      },
+      {
+         "id": 4374799,
+         "name": "Giá Treo Tivi Góc Xoay Nhập Khẩu North Bayou P4 (32-55inch) ",
+         "price": 225000,
+         "list_price": 650000,
+         "discount_rate": 65,
+         "rating_average": 4.8,
+         "review_count": 108,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/3d/0e/e9e08ff83be2aaaa74429ba6f45558d5.jpg"
+      },
+      {
+         "id": 12715175,
+         "name": "Smart Tivi Samsung 4K 55 inch UA55RU7100",
+         "price": 9290000,
+         "list_price": 18490000,
+         "discount_rate": 50,
+         "rating_average": 4.6,
+         "review_count": 57,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/62/ce/2f483468ec7ef4a10078196a6f893ba8.jpg"
+      },
+      {
+         "id": 17465701,
+         "name": "Smart Tivi LG 4K 55 inch 55UM7300PTA",
+         "price": 9990000,
+         "list_price": 17900000,
+         "discount_rate": 44,
+         "rating_average": 4.6,
+         "review_count": 109,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/a3/01/d768b2233f4e79b57e3927a65c3fc33a.jpg"
+      },
+      {
+         "id": 10003165,
+         "name": "Máy Rửa Bát Electrolux ESF6010BW - Hàng chính hãng ",
+         "price": 7080000,
+         "list_price": 10990000,
+         "discount_rate": 36,
+         "rating_average": 4.1,
+         "review_count": 149,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ba/80/a3/3eee5b22e9f3963da9c9517caf342ed3.jpg"
+      },
+      {
+         "id": 37407336,
+         "name": "Android TV BOX RAM 4G, Bộ nhớ 32G, xem phim 6K, chơi game, hỗ trợ tính năng tìm kiếm bằng giọng nói mới nhất hiện nay X10 PLUS",
+         "price": 780000,
+         "list_price": 1400000,
+         "discount_rate": 44,
+         "rating_average": 4,
+         "review_count": 2,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/2e/ec/e01849b475c5c54a1acc837af5b57d95.jpg"
+      },
+      {
+         "id": 11656296,
+         "name": "Smart Tivi Samsung 4K 55 inch UA55RU7400",
+         "price": 13219000,
+         "list_price": 23900000,
+         "discount_rate": 45,
+         "rating_average": 3.8,
+         "review_count": 13,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/6e/34/6622ce778eb47e14b09e6d41eb5818d9.jpg"
+      },
+     
+      {
+         "id": 562469,
+         "name": "Smart Tivi Toshiba Full HD 40 inch 40L5650",
+         "price": 4190000,
+         "list_price": 7890000,
+         "discount_rate": 47,
+         "rating_average": 4.3,
+         "review_count": 69,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/90/3f/99/c0384ac5b637f916996b6b671632b5c2.jpg"
+      },
+      {
+         "id": 17465729,
+         "name": "Smart Tivi LG 4K 55 inch 55UM7100PTA",
+         "price": 9590000,
+         "list_price": 18400000,
+         "discount_rate": 48,
+         "rating_average": 4.4,
+         "review_count": 46,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/80/6a/aee29e8aa13c3702573e809cd9f92dd9.jpg"
+      },
+      {
+         "id": 52021144,
+         "name": "Android Tivi Box T95 hệ điều hành android 10 RAM 4GB ROM 32GB điều khiển giọng nói tiếng Việt",
+         "price": 890000,
+         "list_price": 1200000,
+         "discount_rate": 26,
+         "rating_average": 2.6,
+         "review_count": 5,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/fa/55/ea2a877acbabd3be451209176b382051.jpg"
+      },
+      {
+         "id": 556302,
+         "name": "Loa Soundbar 2.1 Kênh Samsung HW-K350 - Hàng Chính Hãng",
+         "price": 1589000,
+         "list_price": 2208000,
+         "discount_rate": 28,
+         "rating_average": 4.3,
+         "review_count": 566,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/71/7d/a9/97ff0936a25405278fb7d3e3752042a0.jpg"
+      },
+      {
+         "id": 11713479,
+         "name": "Smart Tivi Samsung 4K 49 inch UA49RU8000",
+         "price": 9350000,
+         "list_price": 20900000,
+         "discount_rate": 55,
+         "rating_average": 4.4,
+         "review_count": 19,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e5/eb/cd/0f8a08b8dee1af94bd70929cc3d79025.jpg"
+      },
+      {
+         "id": 823106,
+         "name": "Tủ lạnh Sharp Inverter 182 lít SJ-X201E-SL",
+         "price": 4148000,
+         "list_price": 7300000,
+         "discount_rate": 43,
+         "rating_average": 4.6,
+         "review_count": 30,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/b7/ca/3e8925c3d7261f478013a7b36b803320.jpg"
+      },
+      {
+         "id": 562471,
+         "name": "Smart Tivi Toshiba HD 32 inch 32L5650",
+         "price": 2999000,
+         "list_price": 6490000,
+         "discount_rate": 54,
+         "rating_average": 3.9,
+         "review_count": 19,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2d/25/f4/e23f7fe1e4c1f873c90f117b2f67a474.jpg"
+      },
+      {
+         "id": 49089541,
+         "name": "Tivi LED Sharp HD 32 inch 2T-C32BD1X",
+         "price": 2459000,
+         "list_price": 5490000,
+         "discount_rate": 55,
+         "rating_average": 4.5,
+         "review_count": 25,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/cb/ff/429dcb6a786f0e9621be8e1206a8807b.jpg"
+      },
+      {
+         "id": 7968126,
+         "name": "Nước Giặt Ariel Đậm Đặc Dạng Túi 3.6kg",
+         "price": 153000,
+         "list_price": 202000,
+         "discount_rate": 24,
+         "rating_average": 4.9,
+         "review_count": 100,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/ac/1f/fa7b19d67935f5eadf9bbfb1a800bfb9.png"
+      },
+      {
+         "id": 58858940,
+         "name": "Lớp Học Mật Ngữ - Siêu Thú Ngân Hà tặng Khẩu trang Siêu Thú bảo vệ sức khỏe cho bé cực đáng yêu",
+         "price": 660000,
+         "list_price": 709000,
+         "discount_rate": 7,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/63/5c/e8b7c397f71033aa2853da4ccf2cbd1c.jpg"
+      },
+      {
+         "id": 50423009,
+         "name": "Tã Dán Bobby Sơ Sinh Siêu Thấm S80 (80 Miếng) + 8 Miếng Tã dán cùng loại",
+         "price": 244000,
+         "list_price": 313000,
+         "discount_rate": 22,
+         "rating_average": 4.6,
+         "review_count": 222,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/21/36/66/589077fb5333df49433846dace92ba66.jpg"
+      },
+      {
+         "id": 598345,
+         "name": "Sữa Bột Friso Gold 3 1500g",
+         "price": 630000,
+         "list_price": 630000,
+         "discount_rate": 0,
+         "rating_average": 4.6,
+         "review_count": 186,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/df/80/4552ef9992b83c5f4f3a0c58f9655a95.jpg"
+      },
+      {
+         "id": 41356464,
+         "name": "Nước Rửa Chén Sunlight Thiên Nhiên Muối Khoáng Và Lô Hội (3.6 kg) - Mới",
+         "price": 93000,
+         "list_price": 114000,
+         "discount_rate": 18,
+         "rating_average": 4.8,
+         "review_count": 396,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/da/32/8de5703940b4a99981337cd1035a8433.jpg"
+      },
+      {
+         "id": 22701475,
+         "name": "Nhiệt Kế Hồng Ngoại Đo Nhiệt Độ Cho Bé",
+         "price": 517000,
+         "list_price": 540000,
+         "discount_rate": 4,
+         "rating_average": 3.9,
+         "review_count": 309,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3d/b2/29/c0dd55f412ad8d0d4adbcd77ef144626.jpg"
+      },
+      {
+         "id": 598343,
+         "name": "Sữa Bột Friso Gold 2 900g",
+         "price": 485000,
+         "list_price": 485000,
+         "discount_rate": 0,
+         "rating_average": 4.5,
+         "review_count": 154,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/c4/7f/3d25745dba8d7868367f0ad08bb6b154.jpg"
+      },
+      {
+         "id": 52293026,
+         "name": "Nhiệt kế hồng ngoại cao cấp Chính hãng Hoco - FD-01MD, cảm ứng nhiệt hồng ngoại, màn LCD, độ chính xác cao",
+         "price": 580000,
+         "list_price": 1800000,
+         "discount_rate": 68,
+         "rating_average": 4,
+         "review_count": 1,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/a1/0b/ba74aff95154fbbed3299f4d07d213c6.jpeg"
+      },
+      {
+         "id": 26062573,
+         "name": "Nước Xả Vải Comfort Cho Da Nhạy Cảm (3.2L/Túi) - Phù Hợp Với Làn Da Em Bé",
+         "price": 158000,
+         "list_price": 199000,
+         "discount_rate": 21,
+         "rating_average": 4.8,
+         "review_count": 659,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/9f/b0/3e050eb9f80cc3dd431d03d7d7274f2a.jpg"
+      },
+      {
+         "id": 26274580,
+         "name": "Nước xông tắm sau sinh Dao'spa mama người Dao đỏ 750ml - DK Pharma",
+         "price": 320000,
+         "list_price": 320000,
+         "discount_rate": 0,
+         "rating_average": 4.7,
+         "review_count": 18,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0d/66/4d/52f495c03a8e0a367488c43b4ec2646c.png"
+      },
+      {
+         "id": 598146,
+         "name": "Sữa Bột Friso Gold 1 900g",
+         "price": 485000,
+         "list_price": 485000,
+         "discount_rate": 0,
+         "rating_average": 4.5,
+         "review_count": 128,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ba/7d/d0/8be585111d36b432a87f70d9a0f51dad.jpg"
+      },
+      {
+         "id": 849024,
+         "name": "Tã Quần Huggies Dry Gói Cực Đại XL62 (62 Miếng) - Bao Bì Mới",
+         "price": 315000,
+         "list_price": 380000,
+         "discount_rate": 17,
+         "rating_average": 4.6,
+         "review_count": 339,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/c5/e0/77019bf76129b3802039888523120b13.jpg"
+      },
+      {
+         "id": 26502509,
+         "name": "Tã Quần Bobby Gói Mega Jumbo XL102 (102 Miếng)",
+         "price": 449000,
+         "list_price": 623000,
+         "discount_rate": 28,
+         "rating_average": 4.5,
+         "review_count": 593,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ad/c5/9c/1c4c80ffa4f718d3524599b5b1da7e65.JPG"
+      },
+      {
+         "id": 43992496,
+         "name": "Khăn Ướt Bobby Không Mùi (10 Miếng)",
+         "price": 5000,
+         "list_price": 5000,
+         "discount_rate": 0,
+         "rating_average": 4.5,
+         "review_count": 195,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9e/ff/5d/c8be38935fa515d37bffe1cf0f8da117.jpg"
+      },
+      {
+         "id": 33235852,
+         "name": "Xông ngâm vùng kín sau sinh Yaocare mama 250ml - DK Pharma",
+         "price": 185000,
+         "list_price": 185000,
+         "discount_rate": 0,
+         "rating_average": 4,
+         "review_count": 5,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/ce/0b/9f031a25985d2ee64ecb894e9962d2ff.png"
+      },
+      {
+         "id": 24469801,
+         "name": "Combo 2 Túi Nước Giặt OMO Matic Bền Đẹp Lựu Và Tre Cho Máy Giặt Cửa Trước (2.3kg/Túi)",
+         "price": 220000,
+         "list_price": 278000,
+         "discount_rate": 21,
+         "rating_average": 4.7,
+         "review_count": 613,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/75/42/e41b9f09c849ee063a344f49b6b98619.jpg"
+      },
+      {
+         "id": 58189861,
+         "name": "Laptop Lenovo IdeaPad Slim 3-14ARE05 81W30058VN (AMD Ryzen R3-4300U/ 4GB DDR4 2666MHz/ 512GB M.2 2242 PCIe NVMe/ 14 FHD/ Win10) - Hàng Chính Hãng",
+         "price": 10699000,
+         "list_price": 11990000,
+         "discount_rate": 11,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/3e/b1/864927f9b6c5b55147350d2904f63629.jpg"
+      },
+      {
+         "id": 721995,
+         "name": "Macbook Air 2017 MQD32 (13 inch) - Hàng Chính Hãng",
+         "price": 18499000,
+         "list_price": 24750000,
+         "discount_rate": 25,
+         "rating_average": 4.6,
+         "review_count": 135,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/24/1b/e9/0771b005d8b7d4547b2a5fc0012d4721.jpg"
+      },
+      {
+         "id": 1252843,
+         "name": "Màn Hình Gaming Dell Alienware AW2518H 25inch FullHD 1ms 240Hz G-Sync TN - Hàng Chính Hãng",
+         "price": 8990000,
+         "list_price": 15490000,
+         "discount_rate": 42,
+         "rating_average": 3.7,
+         "review_count": 16,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/29/e6/73a646212c81b603a0f855009e0787a5.jpg"
+      },
+      {
+         "id": 547563,
+         "name": "Bộ Kích Sóng Wifi Repeater 300Mbps Totolink EX200 - Hàng Chính Hãng",
+         "price": 196000,
+         "list_price": 273000,
+         "discount_rate": 28,
+         "rating_average": 4.1,
+         "review_count": 1258,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/e/x/ex200-2.u425.d20170309.t162916.222253.jpg"
+      },
+      {
+         "id": 45023084,
+         "name": "Laptop HP ENVY 13-aq1022TU 8QN69PA (Core i5-10210U/ 8GB/ 512GB SSD/ 13.3 FHD/ WIN10) - Hàng Chính Hãng",
+         "price": 20958000,
+         "list_price": 22690000,
+         "discount_rate": 8,
+         "rating_average": 4.8,
+         "review_count": 8,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/c7/02/4e037f915c484176029d3be4d3e45da0.jpg"
+      },
+      {
+         "id": 356387,
+         "name": "Ổ Cứng Di Động WD Elements 1TB 2.5 USB 3.0 - WDBUZG0010BBK - Hàng Chính Hãng",
+         "price": 1418000,
+         "list_price": 1590000,
+         "discount_rate": 11,
+         "rating_average": 4.6,
+         "review_count": 355,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/w/d/wd elements 1tb - 2.5 usb 3.0_1.u579.d20160808.t172730.328870.jpg"
+      },
+      {
+         "id": 405243,
+         "name": "USB Kingston DT100G3 32GB USB 3.0 - Hàng Chính Hãng",
+         "price": 95000,
+         "list_price": 365000,
+         "discount_rate": 74,
+         "rating_average": 4.3,
+         "review_count": 1229,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/2a/37/34e6ca6587338ccf18f312d7b9b2ea3c.jpg"
+      },
+      {
+         "id": 3054369,
+         "name": "Phần Mềm Diệt Virus BKAV Profressional 1 PC 12 Tháng - Hàng Chính Hãng",
+         "price": 210000,
+         "list_price": 299000,
+         "discount_rate": 30,
+         "rating_average": 4.9,
+         "review_count": 640,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/be/cd/4a65824211f0a54f7d530a923f8ddb81.jpg"
+      },
+      {
+         "id": 9830444,
+         "name": "Chuột Không Dây Logitech M238 Marvel Collection - Hàng Chính Hãng",
+         "price": 249000,
+         "list_price": 499000,
+         "discount_rate": 50,
+         "rating_average": 4.5,
+         "review_count": 262,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/66/6c/e2/47c73849e7c8e1a4e2bc82570a3c1bd6.jpg"
+      },
+      {
+         "id": 48580446,
+         "name": "Dây Sạc Dành Cho Macbook Magsafe 2 sử dụng cho Macbook Pro, Air, Retina",
+         "price": 195000,
+         "list_price": 220000,
+         "discount_rate": 11,
+         "rating_average": 3,
+         "review_count": 2,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/92/af/fd/8e78c529a3dbc51488692da32c72a8e8.jpg"
+      },
+      {
+         "id": 356188,
+         "name": "Chuột Có Dây Logitech B100 - Hàng Chính Hãng",
+         "price": 65000,
+         "list_price": 90000,
+         "discount_rate": 28,
+         "rating_average": 4.6,
+         "review_count": 958,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/95/4d/a9c21fbe61ce96d66c06582a49791381.jpg"
+      },
+      {
+         "id": 405252,
+         "name": "USB Kingston DT100G3 - 64GB - USB 3.0 - Hàng Chính Hãng",
+         "price": 163000,
+         "list_price": 740000,
+         "discount_rate": 78,
+         "rating_average": 4.2,
+         "review_count": 287,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/6/4/64_1.jpg"
+      },
+      {
+         "id": 502113,
+         "name": "USB 3.0 SanDisk Ultra Flair CZ73 - 32GB - Hàng Chính Hãng",
+         "price": 127000,
+         "list_price": 437000,
+         "discount_rate": 71,
+         "rating_average": 4.6,
+         "review_count": 161,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6c/00/03/4335e6e6ea255969ae9863c204ecdad5.jpg"
+      },
+      {
+         "id": 26598897,
+         "name": "Máy chiếu INFOCUS IN112xv - HÀNG CHÍNH HÃNG",
+         "price": 7550000,
+         "list_price": 15000000,
+         "discount_rate": 50,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/41/c6/13b3c19ad1331b048b1f19b35e85de0a.jpg"
+      },
+      {
+         "id": 359484,
+         "name": "Bàn Phím Có Dây Logitech K120 - Hàng Chính Hãng",
+         "price": 128000,
+         "list_price": 209000,
+         "discount_rate": 39,
+         "rating_average": 4.6,
+         "review_count": 471,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/01/c9/b9/4c92a02dbf8def20c13076cbf2d1c28f.jpg"
+      },
+      {
+         "id": 964243,
+         "name": "Ổ Cứng SSD WD Green 240GB 3D NAND - WDS240G2G0A - Hàng Chính Hãng",
+         "price": 705000,
+         "list_price": 1000000,
+         "discount_rate": 30,
+         "rating_average": 4.6,
+         "review_count": 411,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/91/e5/5e/acb318cc06a9c15824535b7443d1a905.jpg"
+      },
+      {
+         "id": 646020,
+         "name": "Bàn Phím Có Dây Dell KB216 - Đen - Hàng Chính Hãng",
+         "price": 145000,
+         "list_price": 250000,
+         "discount_rate": 42,
+         "rating_average": 4.6,
+         "review_count": 646,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/2/3/23884_ban_phim_dell_kb216b_01.u2409.d20170517.t091608.808367.jpg"
+      },
+      {
+         "id": 576173,
+         "name": "Máy Ảnh Canon 800D + Lens 18-55mm IS STM - Hàng Chính Hãng",
+         "price": 13690000,
+         "list_price": 20700000,
+         "discount_rate": 34,
+         "rating_average": 4.4,
+         "review_count": 21,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1f/b2/58/2f469d312bfeaede1f49a04dbac96665.jpg"
+      },
+      {
+         "id": 26432268,
+         "name": "Máy ảnh lấy liền Fujifilm Instax Mini LiPlay - Hàng chính hãng",
+         "price": 3490000,
+         "list_price": 4190000,
+         "discount_rate": 17,
+         "rating_average": 4.7,
+         "review_count": 24,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/97/18/3ef9267ae4e96414d5621edf837b3ab4.jpg"
+      },
+      {
+         "id": 10758508,
+         "name": "Máy Ảnh Sony Alpha A6400 Body + Lens 16-50mm (Black) - Hàng Chính Hãng",
+         "price": 20990000,
+         "list_price": 25990000,
+         "discount_rate": 19,
+         "rating_average": 4.6,
+         "review_count": 24,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/81/51/009de6c8bbb6228ae0f99f2d6a2b677b.jpg"
+      },
+      {
+         "id": 381162,
+         "name": "Hộp Film Fujifilm Mini 20 Tấm - Hàng Chính Hãng",
+         "price": 249000,
+         "list_price": 500000,
+         "discount_rate": 50,
+         "rating_average": 4.7,
+         "review_count": 213,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/14/18/5a/19da10cb95de985a61bbb3106a7d227e.jpg"
+      },
+      {
+         "id": 6478415,
+         "name": "Mic Thu Âm Cho Điện Thoại Và Máy Ảnh BOYA BY-M1 - Hàng Chính Hãng",
+         "price": 265000,
+         "list_price": 600000,
+         "discount_rate": 56,
+         "rating_average": 3.6,
+         "review_count": 48,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/82/22/73/7498924c7c499ab6b0c8968c752a1d84.jpg"
+      },
+      {
+         "id": 21921714,
+         "name": "Camera wifi Yoosee chuẩn 3 râu 11 LED Full HD - hàng chính hãng",
+         "price": 395000,
+         "list_price": 1000000,
+         "discount_rate": 61,
+         "rating_average": 3.7,
+         "review_count": 288,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/84/bb9295d37f95aaf86688ff4f47cccebf.jpg"
+      },
+      {
+         "id": 57523156,
+         "name": "Chân máy ảnh Tripod Chụp hình chụp ảnh 3 chân - Hàng Chính Hãng",
+         "price": 119000,
+         "list_price": 350000,
+         "discount_rate": 66,
+         "rating_average": 4.5,
+         "review_count": 6,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2c/fc/0f/e4ab7d2b3de6f6a826fb6761ad722fad.png"
+      },
+      {
+         "id": 5895773,
+         "name": "Pin Máy Ảnh Wasabi For Canon LP-E8 - Hàng Nhập Khẩu",
+         "price": 319000,
+         "list_price": 350000,
+         "discount_rate": 9,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/f0/ce/44405c79c76c662cd88d9db4a4ea47da.jpg"
+      },
+      {
+         "id": 10979816,
+         "name": "Sạc đôi kèm cáp sạc và 2 pin sạc KingMa LP-E17 cho Canon EOS M3 M5 M6 760D 800D - Hàng chính hãng",
+         "price": 525888,
+         "list_price": 900000,
+         "discount_rate": 42,
+         "rating_average": 4,
+         "review_count": 1,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2f/01/fa/c17618382bfdd4a1d315c21a94d27da1.jpg"
+      },
+      {
+         "id": 23068516,
+         "name": "Camera IP Wifi Yoosee Full HD 1080P - Hàng Nhập Khẩu",
+         "price": 307999,
+         "list_price": 800000,
+         "discount_rate": 62,
+         "rating_average": 3.4,
+         "review_count": 75,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4c/b7/70/65b5d33232735c095a6cab1b0e4484de.jpg"
+      },
+      {
+         "id": 32923633,
+         "name": "Vỉ 5 Viên Pin CR2032 Panasonic ( CR-2032/5BE x 1 Vỉ ) Lithium 3 V",
+         "price": 68000,
+         "list_price": 80000,
+         "discount_rate": 15,
+         "rating_average": 4.7,
+         "review_count": 112,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1a/e7/d7/c45898053296b8acf98556f6aa007d2a.jpg"
+      },
+      {
+         "id": 461040,
+         "name": "Thẻ Nhớ SD SanDisk Ultra Class 10 16GB - 48MB/s - Hàng Chính Hãng",
+         "price": 92000,
+         "list_price": 300000,
+         "discount_rate": 69,
+         "rating_average": 4.5,
+         "review_count": 243,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/f/u/full_sd-ultra-48-16-01.jpg"
+      },
+      {
+         "id": 43107185,
+         "name": "Camera chống trộm Xiaomi Mi Home 360° 1080P 2019 QDJ4058GL - Hàng Chính Hãng",
+         "price": 649000,
+         "list_price": 899000,
+         "discount_rate": 28,
+         "rating_average": 4.3,
+         "review_count": 662,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/ad/57/0410583e1d8532c132f10679f6b09d0e.jpg"
+      },
+      {
+         "id": 683684,
+         "name": "Máy Ảnh Selfie Lấy Liền Fujifilm Instax Mini 9 - Smoky White - Hàng Chính Hãng",
+         "price": 1499000,
+         "list_price": 1990000,
+         "discount_rate": 25,
+         "rating_average": 4.3,
+         "review_count": 34,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/m/i/mini9_smokey-white_01_md.u5168.d20170608.t122932.377328.jpg"
+      },
+      {
+         "id": 41319582,
+         "name": "Camera IP Wifi Ezviz C6N 1080p-Hàng Chính Hãng",
+         "price": 499000,
+         "list_price": 1200000,
+         "discount_rate": 58,
+         "rating_average": 4.4,
+         "review_count": 345,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/63/4c/e797d306bb71bcdb127c3c9ca61ac4c1.png"
+      },
+      {
+         "id": 8021522,
+         "name": "Tay cầm chống rung cho điện thoại Gimbal Zhiyun Smooth 4 - Chính hãng",
+         "price": 1669000,
+         "list_price": 2100000,
+         "discount_rate": 21,
+         "rating_average": 4.5,
+         "review_count": 235,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/20/55/83/2102f00d33d9e500311897ad9ec74b08.jpg"
+      },
+      {
+         "id": 5452277,
+         "name": "Bộ giá đỡ điện thoại, máy ảnh 3 chân tripod",
+         "price": 123000,
+         "list_price": 123000,
+         "discount_rate": 0,
+         "rating_average": 3.5,
+         "review_count": 140,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/01/70/11/b7d29263cc28921adca2e6fcfd04285e.jpg"
+      },
+      {
+         "id": 11858913,
+         "name": "Combo Bộ Giá đỡ chụp hình cho điện thoại, máy ảnh Tripod 3120 và Remote bluetooth",
+         "price": 123000,
+         "list_price": 190000,
+         "discount_rate": 35,
+         "rating_average": 3.6,
+         "review_count": 180,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/83/e1/bbcdf1a6a4e710a0e8b048789f327cec.png"
+      },
+      {
+         "id": 11488920,
+         "name": "Bình Giữ Nhiệt Lock&Lock RigaTumbler (897ml)",
+         "price": 299000,
+         "list_price": 620000,
+         "discount_rate": 52,
+         "rating_average": 4.8,
+         "review_count": 1308,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/f4/0e/e3cfd4ffec0da85fca5b8eb2878bb22b.jpg"
+      },
+      {
+         "id": 38245956,
+         "name": "Giấy Ăn Gấu Trúc (thùng 30 gói) siêu dai, an toàn khi sử dụng, Giấy Ăn Sợi Tre an toàn không chất tẩy trắng",
+         "price": 116000,
+         "list_price": 219000,
+         "discount_rate": 47,
+         "rating_average": 4.4,
+         "review_count": 1040,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/a7/05/6ab0bfacc257d8055300eb5d1538bfc0.jpg"
+      },
+      {
+         "id": 22372768,
+         "name": "Kệ Sách Đa Tầng Để Sàn",
+         "price": 419000,
+         "list_price": 1250000,
+         "discount_rate": 66,
+         "rating_average": 4.7,
+         "review_count": 1444,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ad/7c/5d/0d6a1de80ad2bef8d81671080e6aa03b.jpg"
+      },
+      {
+         "id": 36399757,
+         "name": "bàn làm việc chân sắt",
+         "price": 304000,
+         "list_price": 600000,
+         "discount_rate": 49,
+         "rating_average": 4,
+         "review_count": 250,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/14/c7/4b/1edde2364de37c0e7c337e846a79382c.jpg"
+      },
+      {
+         "id": 51406882,
+         "name": "Bộ 10 Miếng Xốp Dán Tường Giả Gạch 3D (70 x 77cm)",
+         "price": 135000,
+         "list_price": 289000,
+         "discount_rate": 53,
+         "rating_average": 4.1,
+         "review_count": 142,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/fe/4d/05a4b52bbb37992bb0d81a0f259973ac.jpg"
+      },
+      {
+         "id": 1726599,
+         "name": "Bình Giữ Nhiệt Thép Không Gỉ Vacuum Bottle Lock&Lock LHC6180FU (800ml) - Xanh Đậm",
+         "price": 281000,
+         "list_price": 587000,
+         "discount_rate": 52,
+         "rating_average": 4.6,
+         "review_count": 1073,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/94/7f/9f/272c1e3173e24ce5afb9e925f3191414.jpg"
+      },
+      {
+         "id": 16833447,
+         "name": "Bàn gấp học sinh chân chữ U ",
+         "price": 70500,
+         "list_price": 500000,
+         "discount_rate": 86,
+         "rating_average": 3.6,
+         "review_count": 161,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/35/9e/c682f8bf9736cc8ae09ec871f886e215.png"
+      },
+      {
+         "id": 2739235,
+         "name": "Thang nhôm rút chữ A Sumika SK 440D (2.2M+2.2M) - duỗi thẳng cao 4.4m, 8 đế cao su chống trượt, có bánh xe kéo, khóa chốt cao cấp, bậc thang thiết kế chống trượt, thanh giằng giữa 2 bên thang",
+         "price": 1851000,
+         "list_price": 2500000,
+         "discount_rate": 26,
+         "rating_average": 4.4,
+         "review_count": 43,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/20/ed/a2/bd1770813952f258b3dff5c2ae7467a7.jpg"
+      },
+      {
+         "id": 1453915,
+         "name": "Ly Giữ Nhiệt Bằng Thép Không Gỉ Lock&Lock Clip Tumbler LHC4151BLK (540ml) - Đen",
+         "price": 219000,
+         "list_price": 460000,
+         "discount_rate": 52,
+         "rating_average": 4.7,
+         "review_count": 685,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ea/f9/02/9672f465346f13180fdfd9d62f48ef65.jpg"
+      },
+      {
+         "id": 56449571,
+         "name": "KỆ GỖ GÓC TƯỜNG ĐA NĂNG, KỆ TRANG TRÍ 4 TẦNG CAO 1.2M GỖ CAO SU TỰ NHIÊN ",
+         "price": 298000,
+         "list_price": 700000,
+         "discount_rate": 57,
+         "rating_average": 4.4,
+         "review_count": 108,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/66/c7/5c/b8239b476b2b8c42daa74d3a15c3e892.jpg"
+      },
+      {
+         "id": 58448882,
+         "name": "Thanh xốp chắn khe cửa đa năng thông minh",
+         "price": 45700,
+         "list_price": 130000,
+         "discount_rate": 65,
+         "rating_average": 4.4,
+         "review_count": 39,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/21/38/ab/ac8e85d0d1654f1f299f0a67f4cf9fe8.jpg"
+      },
+      {
+         "id": 55078105,
+         "name": "Gương Tròn Soi Trang Điểm Treo Tường Khung Gỗ Hàn Quốc Mia Mirror Nội Thất Kiểu Hàn BEYOURs",
+         "price": 523000,
+         "list_price": 690000,
+         "discount_rate": 24,
+         "rating_average": 4.5,
+         "review_count": 10,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/ee/17/234dd5f05dfd64bb2b91d65d730c11ad.jpg"
+      },
+      {
+         "id": 3258989,
+         "name": "Chiếu ngủ văn phòng",
+         "price": 39000,
+         "list_price": 60000,
+         "discount_rate": 35,
+         "rating_average": 4.4,
+         "review_count": 699,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d2/02/52/7f238445d7e432359587c0908c36bb95.jpg"
+      },
+      {
+         "id": 44936575,
+         "name": "Combo 2 cặp thanh chắn khe cửa (ron chắn khe cửa) chống thoát hơi máy lạnh, máy điều hòa 2B137",
+         "price": 57997,
+         "list_price": 99000,
+         "discount_rate": 41,
+         "rating_average": 3.7,
+         "review_count": 237,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8d/14/29/d243ccdbcb4dccabfe5e507bbfef9e28.jpeg"
+      },
+      {
+         "id": 56941523,
+         "name": "Ly nhựa 2 lớp LocknLock kèm ống hút HAP507 750ml",
+         "price": 94000,
+         "list_price": 188000,
+         "discount_rate": 50,
+         "rating_average": 4.7,
+         "review_count": 71,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/21/d7/bc/b80fd5aa548700350c3e039f61c13d4d.jpg"
+      },
+      {
+         "id": 46649122,
+         "name": "Thang nhôm rút đôi Sumika SKS440D (2.2M+2.2M) - Sơn tĩnh điện, chống trầy xước, khóa chốt cao cấp, nhiều đế cao su chống trượt, bậc thang diện tích rộng, thanh giằng giữa 2 bên thang",
+         "price": 2009000,
+         "list_price": 2900000,
+         "discount_rate": 31,
+         "rating_average": 5,
+         "review_count": 6,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bb/16/68/0f6e972b626facce82120584257fcc3e.jpg"
+      },
+      {
+         "id": 2153235,
+         "name": "Bình Giữ Nhiệt Lock&Lock Feather Light LHC4131BKR (450ml)",
+         "price": 232000,
+         "list_price": 470000,
+         "discount_rate": 51,
+         "rating_average": 4.6,
+         "review_count": 1238,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/52/6f/420b452211ae1f10f5b81b9d9df3333a.jpg"
+      },
+      {
+         "id": 14453485,
+         "name": "Combo 10 móc treo đồ dán tường",
+         "price": 9999,
+         "list_price": 78000,
+         "discount_rate": 87,
+         "rating_average": 4.2,
+         "review_count": 321,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/65/7c/80/6c37dc817e76ec149e2f2a8ec20f9977.jpg"
+      },
+      {
+         "id": 11506461,
+         "name": "Bơm MICHELIN 4398ml 12266 bơm ô tô, xe hơi mini tự ngắt",
+         "price": 1045000,
+         "list_price": 1650000,
+         "discount_rate": 37,
+         "rating_average": 4.6,
+         "review_count": 39,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/17/60/2486ad7d47431d959a103b12949d430f.jpg"
+      },
+      {
+         "id": 32739771,
+         "name": "Xe máy điện Vinfast Impes",
+         "price": 14900000,
+         "list_price": 21990000,
+         "discount_rate": 32,
+         "rating_average": 4.6,
+         "review_count": 5,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/92/56/c28eb8087111ed96000612b396f61fe8.jpg"
+      },
+      {
+         "id": 56339896,
+         "name": "Xe máy điện VinFast Klara S",
+         "price": 39900000,
+         "list_price": 39900000,
+         "discount_rate": 0,
+         "rating_average": 5,
+         "review_count": 2,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/6d/a1/99b1126dbefbc9fb05863f77ca26bec3.jpg"
+      },
+      {
+         "id": 55354516,
+         "name": "Combo 3 Sản Phẩm Máy Lọc Không Khí, Lõi Lọc Thay Thế Blaupunkt Và Chai Tinh Dầu Tân Triều 10 Ml",
+         "price": 3351000,
+         "list_price": 3900000,
+         "discount_rate": 14,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0c/52/d2/29898330a1d8e15729103fa58bf05855.png"
+      },
+      {
+         "id": 45347722,
+         "name": "Xe máy Honda Air Blade 2020 - 125cc - Phanh CBS",
+         "price": 43780000,
+         "list_price": 47000000,
+         "discount_rate": 7,
+         "rating_average": 4.6,
+         "review_count": 28,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/c7/27/db8bf8f0682cf940cfe93b67ee1399b7.jpg"
+      },
+      {
+         "id": 45347711,
+         "name": "Xe máy Honda Air Blade 2020 - 150cc - Phanh ABS",
+         "price": 54400000,
+         "list_price": 65000000,
+         "discount_rate": 16,
+         "rating_average": 4.5,
+         "review_count": 24,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/62/fe/08/3488c6f88ef7724b380df97770b6310d.jpg"
+      },
+      {
+         "id": 50819880,
+         "name": "Bơm xe đạp, xe máy xách tay siêu nhẹ, áp suất 120 PSI, thân hợp kim siêu bền, hỗ trợ cả van Mỹ và van Pháp, bơm được cho tất cả các loại xe đạp bao gồm xe đua, xe địa hình, xe đạp đường trường, thương hiệu Wheel Up - Hàng chính hãng ",
+         "price": 108000,
+         "list_price": 140000,
+         "discount_rate": 23,
+         "rating_average": 4.4,
+         "review_count": 88,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a8/e0/c9/e769dc2399ee84d45bd2182a7c859f0f.jpg"
+      },
+      {
+         "id": 42347550,
+         "name": "Bộ 4 miếng dán chống đọng nước kính hông và gương chiếu hậu ô tô, xe hơi cao cấp DC150",
+         "price": 67700,
+         "list_price": 290000,
+         "discount_rate": 77,
+         "rating_average": 2.9,
+         "review_count": 81,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/ff/b6/22a03919f777c92fa7cae4905690dfc6.png"
+      },
+      {
+         "id": 1389309,
+         "name": "Máy Bơm Ô tô, Xe hơi Đa Năng Michelin 12266 - Hàng Chính Hãng",
+         "price": 1089000,
+         "list_price": 1350000,
+         "discount_rate": 19,
+         "rating_average": 4.7,
+         "review_count": 184,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/61/d1/e7/bfaaf16fa055b34de32418f7ec258f51.jpg"
+      },
+      {
+         "id": 45085577,
+         "name": "Mũ Bảo Hiểm có kính 3/4 đầu lót màu cao cấp",
+         "price": 149000,
+         "list_price": 253000,
+         "discount_rate": 41,
+         "rating_average": 3.9,
+         "review_count": 51,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d0/a3/ff/582c39b2caaef0a3b04aeab23d61da3e.jpg"
+      },
+      {
+         "id": 22956067,
+         "name": "Xe Máy Honda Winner X - Phiên Bản Thể Thao",
+         "price": 35610000,
+         "list_price": 50000000,
+         "discount_rate": 29,
+         "rating_average": 4.9,
+         "review_count": 33,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/37/b6/39/a8579a026d5e2a5e4c38c89059422957.jpg"
+      },
+      {
+         "id": 52788532,
+         "name": "BỌC VÔ LĂNG DA VÂN CARBON DÀNH CHO Ô TÔ - GẮN LOGO ĐỦ HÃNG XE HƠI ( TẶNG KÈM 5 VIÊN SỦI RỬA KÍNH)",
+         "price": 169000,
+         "list_price": 279000,
+         "discount_rate": 39,
+         "rating_average": 3,
+         "review_count": 2,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/b1/e2/1a96a2a56289e8d55c243f1b2054e42c.PNG"
+      },
+      {
+         "id": 21076785,
+         "name": "Bảng số điện thoại gắn taplo ô tô, xe hơi",
+         "price": 28900,
+         "list_price": 100000,
+         "discount_rate": 71,
+         "rating_average": 4,
+         "review_count": 217,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/9b/65/e09c22aacf4d088a0aad09d37da1a51c.jpg"
+      },
+      {
+         "id": 31513611,
+         "name": " Kem đánh bóng kim loại đa dụng inox, đồng, .... Autosol Metal Polish 75ml",
+         "price": 69000,
+         "list_price": 80000,
+         "discount_rate": 14,
+         "rating_average": 4.5,
+         "review_count": 74,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/51/e9/644c1c460726b2b783b579af1f085d1e.jpg"
+      },
+      {
+         "id": 22414354,
+         "name": "Xe máy Honda Lead Cao Cấp 2019 (Smart Key)",
+         "price": 39500000,
+         "list_price": 45000000,
+         "discount_rate": 12,
+         "rating_average": 4.7,
+         "review_count": 56,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7d/49/72/08c9505814ef33781d5a945fdb26ed57.jpg"
+      },
+      {
+         "id": 48894428,
+         "name": "Bạt trùm xe máy vải dù loại siêu dày chất lượng cao, chống mưa chống nắng xe máy, có túi đựng bạt trùm, hàng Việt Nam , đa dạng màu sắc,có lựa chọn màu (Phụ Kiện Ô Tô) ",
+         "price": 125000,
+         "list_price": 250000,
+         "discount_rate": 50,
+         "rating_average": 4.7,
+         "review_count": 131,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/76/15/1d2929adc150627ce77b563f8df12d96.jpg"
+      },
+      {
+         "id": 25421092,
+         "name": "Xe Máy Honda Vision 2019 Bản Cao Cấp Smartkey",
+         "price": 31740000,
+         "list_price": 36000000,
+         "discount_rate": 12,
+         "rating_average": 4.7,
+         "review_count": 42,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/ae/c4/ef9c1f27909be48b643dd9209bebc2ae.jpg"
+      },
+      {
+         "id": 38903048,
+         "name": "Bộ 2 Đèn LED Van Xe Đạp. Xe Máy, Moto ( Màu Giao Ngẫu Nhiên )",
+         "price": 19000,
+         "list_price": 99000,
+         "discount_rate": 81,
+         "rating_average": 3.6,
+         "review_count": 79,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/60/ea/697f7e6516dc0631394d0626aa4859a1.jpg"
+      },
+      {
+         "id": 59418162,
+         "name": "Tai nghe Bluetooth True Wireless Xiaomi Earbud Airdots Basic S (Model ZBW4502GL) - Hàng Chính Hãng",
+         "price": 629000,
+         "list_price": 790000,
+         "discount_rate": 20,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/48/e2/82dc493d097cebd883305c50ee0c5a65.jpg"
+      },
+      {
+         "id": 46623654,
+         "name": "Tai Nghe Bluetooth Apple AirPods 2 True Wireless - MV7N2 - Nhập Khẩu Chính Hãng - Hộp Sạc Thường",
+         "price": 3589000,
+         "list_price": 6900000,
+         "discount_rate": 48,
+         "rating_average": 4.4,
+         "review_count": 927,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d8/9f/ed/42f4410cad6c8c13eb1cdd95080f971e.jpg"
+      },
+      {
+         "id": 23459272,
+         "name": "Tai Nghe Bluetooth Apple AirPods 2 True Wireless (Sạc Có Dây) - Model A2032,A2031,A1602 - Hàng Nhập Khẩu",
+         "price": 3230000,
+         "list_price": 4590000,
+         "discount_rate": 30,
+         "rating_average": 4.4,
+         "review_count": 130,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8a/a0/bc/1745123d06efa4ba5e0a43d1b890bb94.jpg"
+      },
+      {
+         "id": 51593115,
+         "name": "Bộ Găng Tay Cảm Ứng Chơi Game Điện Thoại Chống Mồ Hôi, Chống Trượt Gear Chuyên Game Mobile-4017- Hàng Nhập Khẩu",
+         "price": 33700,
+         "list_price": 150000,
+         "discount_rate": 78,
+         "rating_average": 4.2,
+         "review_count": 126,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/03/3b/fd/a2bcbf9c1c504afde0cab22c956d22ab.jpg"
+      },
+      {
+         "id": 299461,
+         "name": "Chuột Không Dây Logitech M331 Silent Plus - Hàng Chính Hãng",
+         "price": 284000,
+         "list_price": 399000,
+         "discount_rate": 29,
+         "rating_average": 4.6,
+         "review_count": 2102,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/m/3/m331red_0.u2470.d20161215.t105811.181375.jpg"
+      },
+      {
+         "id": 38458616,
+         "name": "Tai Nghe Bluetooth Apple AirPods Pro True Wireless - MWP22 - Hàng Chính Hãng VN/A",
+         "price": 5330000,
+         "list_price": 8500000,
+         "discount_rate": 37,
+         "rating_average": 4.9,
+         "review_count": 56,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/dc/b3/62e166121af858dcea5156c0808250ac.jpg"
+      },
+      {
+         "id": 1600005,
+         "name": "Tai Nghe Nhét Tai Mi Basic Xiaomi HSEJ03JY - Hàng Chính Hãng",
+         "price": 114000,
+         "list_price": 150000,
+         "discount_rate": 24,
+         "rating_average": 4.6,
+         "review_count": 1251,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/8d/4f/f3a5f3ebd9b2e69406821f922cfcc537.jpg"
+      },
+      {
+         "id": 356188,
+         "name": "Chuột Có Dây Logitech B100 - Hàng Chính Hãng",
+         "price": 65000,
+         "list_price": 90000,
+         "discount_rate": 28,
+         "rating_average": 4.6,
+         "review_count": 958,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/95/4d/a9c21fbe61ce96d66c06582a49791381.jpg"
+      },
+      {
+         "id": 23476288,
+         "name": "Tai nghe gaming có mic G901 dùng được cho điện thoại và máy tính + Tặng đế xem phim cho điện thoại",
+         "price": 150000,
+         "list_price": 250000,
+         "discount_rate": 40,
+         "rating_average": 4.4,
+         "review_count": 285,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/c1/05/fa1177b5cd79e8c7a9ced26ff3425fcc.jpg"
+      },
+      {
+         "id": 598205,
+         "name": "Loa Bluetooth JBL Charge 3 Special Edition 20W - Hàng Chính Hãng",
+         "price": 2329000,
+         "list_price": 3800000,
+         "discount_rate": 39,
+         "rating_average": 4.5,
+         "review_count": 65,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/1/_/1.u2751.d20170330.t182218.804257.jpg"
+      },
+      {
+         "id": 56020727,
+         "name": "Tai Nghe Bluetooth True Wireless Sony WF-XB700 - Hàng Chính Hãng",
+         "price": 2310000,
+         "list_price": 2990000,
+         "discount_rate": 23,
+         "rating_average": 4.7,
+         "review_count": 17,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/17/84/56/c97ce87683d7f90a2a9267c1be96e5dd.jpg"
+      },
+      {
+         "id": 7820533,
+         "name": "Pin Sạc Dự Phòng Samsung EB-P1100 10000mAh Hỗ Trợ Sạc Nhanh QC 2.0 - Hàng Chính Hãng",
+         "price": 299000,
+         "list_price": 390000,
+         "discount_rate": 23,
+         "rating_average": 4.4,
+         "review_count": 705,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0e/03/6e/1e82e11419bd4aae424b10a5457eb932.jpeg"
+      },
+      {
+         "id": 8425722,
+         "name": "Miếng dán cường lực cho Motorola Moto E5 Full màn hình",
+         "price": 75000,
+         "list_price": 115000,
+         "discount_rate": 35,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0d/c7/0a/970759ec239c8f9bc19f9efaa008abdf.jpg"
+      },
+      {
+         "id": 4492151,
+         "name": "Bao case silicon cho tai nghe Apple Airpods / Earpods - Hàng nhập khẩu",
+         "price": 29000,
+         "list_price": 120000,
+         "discount_rate": 76,
+         "rating_average": 2.9,
+         "review_count": 194,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4c/df/5d/0e92c7e7b061d1fd8aedd6797445100e.jpg"
+      },
+      {
+         "id": 55354782,
+         "name": "Miếng dán cường lực cho Samsung Galaxy A40 Full keo màn hình - Đen",
+         "price": 75000,
+         "list_price": 95000,
+         "discount_rate": 21,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/e4/eb/201fe330b48b9a7bdeda60552b378942.jpg"
+      },
+      {
+         "id": 2935385,
+         "name": "Dây Sạc ANKER A7101621 Được Chứng Nhận MFi Cho Iphone / Ipad",
+         "price": 138000,
+         "list_price": 426000,
+         "discount_rate": 68,
+         "rating_average": 4.4,
+         "review_count": 535,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a9/92/11/a51fa2d416f113fec2019ca3d38cd2c0.jpg"
+      },
+      {
+         "id": 389145,
+         "name": "Chuột Không Dây Logitech B175 - Hàng Chính Hãng",
+         "price": 155000,
+         "list_price": 250000,
+         "discount_rate": 38,
+         "rating_average": 4.5,
+         "review_count": 983,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/a/_/a.u717.d20160814.t150752.482707.jpg"
+      },
+      {
+         "id": 17019841,
+         "name": "Loa Bluetooth Sony SRS-XB12 - Hàng chính hãng",
+         "price": 1060000,
+         "list_price": 1290000,
+         "discount_rate": 18,
+         "rating_average": 4.6,
+         "review_count": 260,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/08/e2/59/7eb65c9c31bd69f13b84e105abec2420.jpg"
+      },
+      {
+         "id": 43543659,
+         "name": "Giầy thể thao nữ, giày sneaker nữ buộc dây V202",
+         "price": 74000,
+         "list_price": 350000,
+         "discount_rate": 79,
+         "rating_average": 4.2,
+         "review_count": 202,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/17/d1/70/4bee89a676767ab5714c4bd2e3a3a5e4.jpg"
+      },
+      {
+         "id": 17898669,
+         "name": "Áo khoác kaki jean Nam UNISEX - 6 màu căn bản ",
+         "price": 123000,
+         "list_price": 250000,
+         "discount_rate": 51,
+         "rating_average": 3.9,
+         "review_count": 255,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/77/2d/9a6a447a3ab1fc74c1b01d3ad81e9cd1.jpg"
+      },
+      {
+         "id": 52320136,
+         "name": "Quần Short Nam KaKi Hiện Đại, Nhiều Màu Trẻ Trung Năng Động",
+         "price": 99000,
+         "list_price": 330000,
+         "discount_rate": 70,
+         "rating_average": 4.3,
+         "review_count": 96,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/26/24/6a5e0aef08f94f454904d2adc290c8e7.jpg"
+      },
+      {
+         "id": 51957945,
+         "name": "Hoa cài áo handmade Lụa Ribbon Nhành cúc xuân Các màu",
+         "price": 135000,
+         "list_price": 200000,
+         "discount_rate": 33,
+         "rating_average": 5,
+         "review_count": 1,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/1b/59/b90a67cc47bfd345f5126b8c1b62cd78.jpg"
+      },
+      {
+         "id": 23911751,
+         "name": "Balo Nam OHAZO! Phát Sáng Có Sạc USB, Khóa Chống Trộm, Chống Nước Balo Đi Học Hot Trend 2020",
+         "price": 199000,
+         "list_price": 550000,
+         "discount_rate": 64,
+         "rating_average": 4.2,
+         "review_count": 141,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/77/ff/cf/d832993f0dc4f0068eb227e3503221b9.jpg"
+      },
+      {
+         "id": 32979977,
+         "name": "Vali Kéo Du Lịch Rover Ada",
+         "price": 1049000,
+         "list_price": 1049000,
+         "discount_rate": 0,
+         "rating_average": 5,
+         "review_count": 1,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/3f/35/f8f0de1a5045b77fbbb4cc2ff4061549.jpg"
+      },
+      {
+         "id": 22689010,
+         "name": "Combo 3 áo thun trơn nam thời trang Everest màu trắng đen xám",
+         "price": 99000,
+         "list_price": 179000,
+         "discount_rate": 45,
+         "rating_average": 4.1,
+         "review_count": 233,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/a0/e7/4f7309e1fc69816f58aade4ae64b8e2f.jpg"
+      },
+      {
+         "id": 16257171,
+         "name": "Bộ ba lô thời trang 5 món học sinh giá ",
+         "price": 84000,
+         "list_price": 229000,
+         "discount_rate": 63,
+         "rating_average": 4.3,
+         "review_count": 508,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/d3/10/b3485739982b5e837a6c89ae71b98d27.png"
+      },
+      {
+         "id": 17909429,
+         "name": "Balo Nữ Sinh Đi Học Phong Cách Hàn Quốc G1260",
+         "price": 145000,
+         "list_price": 278000,
+         "discount_rate": 48,
+         "rating_average": 4.3,
+         "review_count": 136,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ba/49/42/0d664ff3256a6a073c15faca45e87aea.jpg"
+      },
+      {
+         "id": 14787917,
+         "name": "Bộ ba lô thời trang 5 món học sinh cao cấp",
+         "price": 95000,
+         "list_price": 199000,
+         "discount_rate": 52,
+         "rating_average": 4.5,
+         "review_count": 95,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8c/e0/a1/d2bd369b34a446d682a5ab642c0ae374.jpg"
+      },
+      {
+         "id": 58366865,
+         "name": "COMBO 5 Hoa cài áo handmade Hoa cúc lật từ lụa cao cấp - 5 màu",
+         "price": 499000,
+         "list_price": 925000,
+         "discount_rate": 46,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9b/90/bb/bec1508097b7ac4a50dbbafd46fea4f4.jpg"
+      },
+      {
+         "id": 32386665,
+         "name": "QUẦN SHORT KAKI NAM CO GIÃN CAO CẤP LƯNG THUN BT01",
+         "price": 88000,
+         "list_price": 179000,
+         "discount_rate": 51,
+         "rating_average": 3.8,
+         "review_count": 49,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/f9/86/e2f48af8d6eee8ded2132671d012d195.JPG"
+      },
+      {
+         "id": 20999075,
+         "name": "Balo Nữ - Balo Học Sinh Sinh Viên - Combo Balo Nữ 4 Món",
+         "price": 118000,
+         "list_price": 499000,
+         "discount_rate": 76,
+         "rating_average": 3.8,
+         "review_count": 111,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/74/e4/27/a1fcba14fd4945c10e30737eb429c837.jpg"
+      },
+      {
+         "id": 46601617,
+         "name": "Áo thun nam tay lỡ form rộng Unisex Methata Freesize mặc vừa từ 45 - 70kg ",
+         "price": 52000,
+         "list_price": 130000,
+         "discount_rate": 60,
+         "rating_average": 3.9,
+         "review_count": 320,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/5b/da/8fb3dfe89367fcd20ad82223df811d2d.jpg"
+      },
+      {
+         "id": 52275724,
+         "name": "Quần Jogger KaKi Unisex Trẻ Trung Năng Động,4 Màu Cá Tính",
+         "price": 109000,
+         "list_price": 250000,
+         "discount_rate": 56,
+         "rating_average": 4.1,
+         "review_count": 27,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/52/08/58aa205912987f13b4f6dcdff844f198.jpg"
+      },
+      {
+         "id": 55504719,
+         "name": "Giày thể thao nữ đế phối 1/2 màu cực chất",
+         "price": 169000,
+         "list_price": 350000,
+         "discount_rate": 52,
+         "rating_average": 4.6,
+         "review_count": 48,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/38/a9/4a/997cbebeb3cc48506332f310458941f1.jpg"
+      },
+      {
+         "id": 58396805,
+         "name": "COMBO sắc màu 5 Hoa cài áo handmade Hoa cúc Thu Nghiêng từ lụa cao cấp - 5 màu",
+         "price": 499000,
+         "list_price": 925000,
+         "discount_rate": 46,
+         "rating_average": 0,
+         "review_count": 0,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/6c/82/8557b92c923e8fc0bccf8fb7125cb499.jpg"
+      },
+      {
+         "id": 55664113,
+         "name": "Quần Short Gió Thể Thao Nam 5S (QSG002S1) Trẻ Trung, Năng Động Hàng Công Ty Chính Hãng ",
+         "price": 99000,
+         "list_price": 255000,
+         "discount_rate": 61,
+         "rating_average": 4.6,
+         "review_count": 137,
+         "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/b2/13/4546d40293b34077384ef5d797cecc0f.jpg"
+      }
+   ]
+}
