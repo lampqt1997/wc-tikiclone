@@ -4,46 +4,74 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
+    <title>Xử lý đơn hàng</title>
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css" />
-    <link rel="stylesheet" href="css/index.css" />
+    <link rel="stylesheet" href="css/admin-page.css" />
   </head>
 
-  <body class="bdy">
+  <body class="">
     <!-- Load HTML header -->
-    <script
+    <!-- <script
       language="javascript"
       type="text/javascript"
       src="./js/header.js"
-    ></script>
+    ></script> -->
+    <header class="">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+        <a class="navbar-brand" href="#">Admin</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Trang chủ <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Kho hàng</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Đơn hàng</a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <button type="button" class="btn btn-outline-info">Tài khoản</button>
+          </form>
+        </div>
+        </div>
+      </nav>
+    </header>
     <!-- End HTML header -->
 
     <!-- HTML Main -->
-    <main class="">
-      <div class="container-fluid">
-        <div class="py-5 text-center">
-          <h2>Xử lý đơn hàng</h2>
+    <main>
+      <div class="container my-5">
+        <div class="d-flex justify-content-between">
+
+          <div class="">
+            <h2>Xử lý đơn hàng</h2>
+          </div>
         </div>
+        <form class="my-3 p-3 bg-white" id="filter-form">
+          <fieldset>
+
+            <legend>Tùy chọn hiển thị</legend>
+            <div id="checkbox-list"></div>
+            
+            <!-- <button class="btn btn-primary mt-2">Áp dụng</button> -->
+          </fieldset>
+        </form>
 
         <div class="table-responsive">
 
-          <table class="table table-hover bg-white p-3">
-            <thead>
-              <tr>
-                <th scope="col">Mã đơn hàng</th>
-                <th scope="col">Khách hàng</th>
-                <th scope="col">Ngày mua</th>
-                <th scope="col">Sản phẩm</th>
-                <th scope="col">Tổng tiền</th>
-                <th scope="col">Địa chỉ giao hàng</th>
-                <th scope="col">Số điện thoại</th>
-                <th scope="col">Ngày vận chuyển dự kiến</th>
-                <th scope="col">Hình thức thanh toán</th>
-                <th scope="col">Trạng thái đơn hàng</th>
-              </tr>
+          <table class="table table-bordered table-hover bg-white">
+            <thead id="orders-header" class="text-nowrap text-center">
+              
             </thead>
-            <tbody id="orders">
+            <tbody id="orders-body">
               
             </tbody>
           </table>
@@ -67,25 +95,95 @@
 
     <!-- Load data to table ORDERS -->
     <script>
+      $(document).ready(function() {
+        let columnsName = [
+               "Mã đơn hàng",
+               "Khách hàng",
+               "Ngày mua",
+               "Sản phẩm",
+               "Thành tiền (VND)",
+              //  "Số điện thoại",
+              //  "Địa chỉ giao hàng",
+              //  "Ngày vận chuyển dự kiến",
+               "Thanh toán",
+               "Trạng thái",
+               "Thao tác"];
+        $.each(columnsName, function(key, val) {
+          let newTr = $('<th scope="col" id="' + key + '">' + val + '</th>');
+          $("#orders-header").append(newTr);
+
+          let newCheckbox = $(`<div class="form-check form-check-inline">
+            <input class="form-check-input" type="checkbox" value="checked" id="` + key + `" checked="checked" name="`+ key +`">
+            <label class="form-check-label" for="` + key + `">
+              ` + val + `
+            </label>
+          </div>`);
+          $("#checkbox-list").append(newCheckbox);
+        });
+
+        // $("#orders-header").append(`<th scope="col">Thao tác</th>`);  
+
         $.ajax({
             url: "./data/orders_data.json",
             dataType: "json",
             success: function(data) {
-                let orders = data.orders;
-                $.each(orders, function(key, row) {
-                    let newTr = $('<tr id="' + key + '"></tr>');
-                    $.each(row, function(key, val) {
+              let orders = data.orders;
+              $.each(orders, function(key, row) {
+                  let newTr = $('<tr id="' + key + '"></tr>');
+                  $.each(row, function(key, val) {
+                      if(key == "amount") {
+                        newTr.append('<td class="text-right" id="' + key + '">' + parseInt(val).toLocaleString("vi-VN") + '</td>');
+                      } else {
                         newTr.append('<td id="' + key + '">' + val + '</td>');
-                    })
-                    
-                    $("#orders").append(newTr);
-                });
+                      }
+                  })
+                  newTr.append(`<td class="text-nowrap">
+                    <button class="btn btn-primary"><i class="fas fa-shipping-fast"></i> Vận chuyển</button> <button class="btn btn-secondary"><i class="fas fa-clipboard-check"></i> Kiểm tra</button>
+                  </td>`);
+                  
+                  $("#orders-body").append(newTr);
+              });
             },
             error: function() {
                 console.log("Fail to get data from json file");
             }
         });
-    </script>
+      });
 
+      function handleFilter() {
+        console.log("ok");
+      }
+
+      
+      $( "#filter-form" ).change(function( event ) {
+        event.preventDefault();
+        let displayedList = $(this).serializeArray().map(ele => parseInt(ele.name));
+        let fullListLen = 8;
+        // let fullList = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+        // let notDisplayedList = fullList.filter(ele => displayedList.indexOf(ele) == -1);
+        // console.log(notDisplayedList);
+
+        for (let i = 0; i < fullListLen; i++) {
+          let show = displayedList.indexOf(i) == -1 ? false : true;
+          if(show) {
+            $($("#orders-header").children()[i]).show();
+          } else {
+            $($("#orders-header").children()[i]).hide();
+          }
+          // let notDisplayedIndex = notDisplayedList[i];
+
+          $.each($("#orders-body").children(), function(key, ele) {
+            if(show) {
+              $($(ele).children()[i]).show();
+            } else {
+              $($(ele).children()[i]).hide();
+            }
+            // console.log(ele)
+          });
+        }
+
+        // console.log($($("#orders-body").children()[0]).children());
+      });
+    </script>
   </body>
 </html>
